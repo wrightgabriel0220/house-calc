@@ -1,0 +1,11 @@
+bedroom #,bathroom #,price,sqft,available date,building type,deposit,is available?,notes,parking space #,address,city,name
+4,2,3500,1722,,Single-Family Home,3500,TRUE,Has a garage,1,6161 Kinlock Ave.,Alta Loma,
+3,2,3599,1396,,Apartment,1500,TRUE,,,13250 Foothill Blvd,Rancho Cucamonga,The Core on Foothill
+3,2,3763,1438,May 13,Apartment,,FALSE,Garages available,,9350 The Resort Pky,Rancho Cucamonga,Homecoming At The Resort
+2,2,3269,1089,,Apartment,,TRUE,,,11660 Church St,Rancho Cucamonga,Homecoming at Terra Vista
+1,1,1975,500,May 10,Apartment,450,FALSE,,,8389 Fir Dr.,Rancho Cucamonga,The Terrace Apartments
+2,1,2500,875,May 23,Apartment,500,FALSE,,,8950 Arrow Route Rt,Rancho Cucamonga,Vineyard Village
+3,2,3358,1238,May 29,Apartment,700,FALSE,Refers to the Barbera Unit N/A-14304,2,8200 Haven Ave,Rancho Cucamonga,Verano at Rancho Cucamonga Town Square
+3,2,3536,1320,,Apartment,500,TRUE,Refers to The Relax Unit C308,,11100 4th St.,Rancho Cucamonga,Ironwood Apartments
+1,1,2295,636,,Apartment,500,TRUE,,,2615 E Date Palm Paseos,Ontario,Paseos at Ontario
+2,2,2395,840,May 21,Apartment,750,FALSE,Upstairs unit,,1265 E 9th St,Upland,The Oaks Apartments

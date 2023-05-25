@@ -1,0 +1,13 @@
+has_pool
+has_gym
+has_business_center
+is_gated
+has_dishwasher
+has_fridge
+has_microwave
+has_air_conditioning
+has_in_unit_washer
+has_in_unit_dryer
+allows_dogs
+allows_cats
+has_stairs
